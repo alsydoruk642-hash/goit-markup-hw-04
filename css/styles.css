@@ -307,9 +307,39 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: var(--slate);
+  margin-bottom: 8px;
 }
 .team-cards-list {
   background-color: #ffffff;
+}
+.team-social-unordered {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  padding: 0 16px;
+}
+.team-social-list {
+  width: calc((100% - 3 * 24px) / 4);
+}
+.team-social-link {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--iris);
+  border-radius: 50%;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.team-social-link:hover {
+  background-color: #404bbf;
+}
+.team-social-link:focus,
+.team-social-link:active {
+  background-color: #404bbf;
+}
+.team-social-icon {
+  fill: var(--cloud);
 }
 
 /*section projects */
