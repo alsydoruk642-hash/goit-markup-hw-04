@@ -104,7 +104,7 @@ body {
   color: var(--navy-blue);
 }
 .header-nav-link {
-  font-family: var(--font-family);
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
@@ -141,7 +141,7 @@ body {
 }
 
 .header-address-contacts {
-  font-family: var(--font-family);
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -177,7 +177,7 @@ body {
   justify-content: center;
 }
 .hero-title {
-  font-family: var(--font-family);
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
   line-height: 107%;
@@ -419,7 +419,7 @@ body {
   color: #f4f4fd;
 }
 .footer-text {
-  font-family: var(--font-family);
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -432,7 +432,7 @@ body {
   max-width: 208px;
 }
 .footer-social-title {
-  font-family: var(--font-family);
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   margin-bottom: 16px;
