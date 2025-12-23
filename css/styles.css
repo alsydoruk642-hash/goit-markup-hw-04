@@ -61,7 +61,6 @@ img {
 body {
   font-family: "Roboto", sans-serif;
   color: var(--slate);
-  font-weight: regular;
   font-size: 16px;
   line-height: 150%;
   background-color: var(--white);
@@ -85,7 +84,7 @@ body {
 }
 
 .header-nav-logo-web {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -95,7 +94,7 @@ body {
   margin-right: 76px;
 }
 .header-nav-logo-studio {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -188,7 +187,7 @@ body {
   max-width: 496px;
 }
 .button-hero {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
@@ -227,8 +226,8 @@ body {
 .feature-list {
   width: calc((100% - 3 * 24px) / 4);
 }
-.feature-title {
-  font-family: Roboto, sans-serif;
+.feature-title-name {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -237,7 +236,7 @@ body {
   padding-bottom: 8px;
 }
 .feature-text {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -277,7 +276,7 @@ body {
   padding: 32px 0;
 }
 .team-cards-title {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 36px;
   line-height: 111%;
@@ -288,7 +287,7 @@ body {
   margin-bottom: 72px;
 }
 .team-cards-name {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -300,7 +299,7 @@ body {
 }
 
 .team-cards-content {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -354,7 +353,7 @@ body {
   border-top: none;
 }
 .section-projects-title {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 36px;
   line-height: 111%;
@@ -365,7 +364,7 @@ body {
   margin-bottom: 72px;
 }
 .projects-name {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -376,7 +375,7 @@ body {
   margin-bottom: 8px;
 }
 .projects-text {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -399,7 +398,7 @@ body {
   margin-right: 120px;
 }
 .footer-logo-web {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -410,7 +409,7 @@ body {
   margin-bottom: 16px;
 }
 .footer-logo-studio {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
