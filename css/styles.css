@@ -269,7 +269,6 @@ body {
   border-radius: 0px 0px 4px 4px;
 }
 .team-cards-image {
-  max-width: 100%;
   object-fit: cover;
 }
 .team-cards-name-container {
