@@ -309,6 +309,7 @@ body {
   text-align: center;
   color: var(--slate);
   margin-bottom: 8px;
+  gap: 8px;
 }
 .team-cards-list {
   background-color: #ffffff;
