@@ -371,7 +371,7 @@ body {
   overflow: hidden;
 }
 .projects-text-overlay {
-  top: 0;
+  inset: 0;
   position: absolute;
   display: flex;
   font-weight: 400;
