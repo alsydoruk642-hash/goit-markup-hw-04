@@ -257,7 +257,7 @@ body {
   border-radius: 8px;
   align-items: center;
   border: 1px solid var(--light-slate);
-  margin-bottom: 8px;
+  gap: 8px;
 }
 /*team cards */
 .team-cards {
