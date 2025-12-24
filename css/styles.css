@@ -111,6 +111,7 @@ body {
   color: var(--navy-blue);
   display: inline-block;
   padding: 24px 0;
+  font-weight: bold;
 }
 .current {
   color: var(--ocean);
@@ -335,8 +336,8 @@ body {
 .team-social-link:active {
   background-color: #404bbf;
 }
-.team-social-icon {
-  fill: none;
+.team-social-link {
+  fill: #f4f4fd;
 }
 
 /*section projects */
@@ -488,4 +489,7 @@ body {
 .footer-social-link:hover,
 .footer-social-link:focus {
   background-color: green;
+}
+.footer-social-icon {
+  fill: #f4f4fd;
 }
