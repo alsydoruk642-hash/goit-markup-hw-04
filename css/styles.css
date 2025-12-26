@@ -427,6 +427,7 @@ body {
 /* Footer Styles */
 .footer {
   background-color: var(--navy-blue);
+  padding: 100px 0;
 }
 .footer .container {
   display: flex;
@@ -445,7 +446,6 @@ body {
   color: var(--iris);
   display: inline-block;
   margin-bottom: 16px;
-  padding-top: 100px;
 }
 .footer-logo-studio {
   font-family: "Raleway", sans-serif;
@@ -464,7 +464,6 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  padding-bottom: 100px;
 }
 .footer-social-container {
   max-width: 208px;
@@ -477,7 +476,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--white);
-  margin-bottom: 16px;
 }
 .footer-social-unordered {
   display: flex;
